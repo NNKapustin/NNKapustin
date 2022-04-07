@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/nikita-kapustin-aa9638110">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 ### Hi there 👋
