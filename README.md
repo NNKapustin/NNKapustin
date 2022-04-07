@@ -14,7 +14,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" width="600" height="300"/>
+</div>
 
 <!--
 **Elfilagas/Elfilagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
