@@ -20,7 +20,6 @@
 
 ---
 
-### :man_technologist: About Me :
-I am a Full Stack C# Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+### :man_technologist: I am a Full Stack C# Developer.
 
 ### :hammer_and_wrench: Languages and Tools :
