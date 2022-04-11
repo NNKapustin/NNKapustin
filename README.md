@@ -1,8 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="100"/>
+  <a href="https://www.linkedin.com/in/nikita-kapustin-fullstack">
+    <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="200"/>
+  </a>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/nikita-kapustin-aa9638110">
+  <a href="https://www.linkedin.com/in/nikita-kapustin-fullstack">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
