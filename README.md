@@ -15,7 +15,7 @@
   Hi there!
 </h1>
 
-### :man_technologist: I am a Full Stack Developer.
+### :man_technologist: I am a Back-End Developer.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
